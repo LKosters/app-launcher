@@ -3,13 +3,13 @@ import Image from "next/image"
 
 const apps = [
   {
-    name: "card-vault",
+    name: "CardVault",
     icon: "https://oyk76e8cxg.ufs.sh/f/zBgqJ6knLHTh1Ll2rsQ74sAmNGWdnPbUOilTZS1j28w9xBtE",
     url: "https://card-vault.laurenskosters.nl",
     iconPosition: "0 0",
   },
   {
-    name: "dev-snip",
+    name: "DevSnip",
     icon: "https://oyk76e8cxg.ufs.sh/f/zBgqJ6knLHThBOTkGDgeORiTw4avSIs0lDXErbHYq6NVWM3G",
     url: "https://devsnip.laurenskosters.nl",
     iconPosition: "100% 0",
